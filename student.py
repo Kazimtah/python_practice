@@ -26,4 +26,4 @@ print(f"My graduated student of {Student.class_year} has number of {Student.num_
 print(student1.name, student4.age)
 print(student2.name, student4.age)
 print(student3.name, student4.age)
-print(student4.name, student4.age)
+print(student4.name, student4.age) 
