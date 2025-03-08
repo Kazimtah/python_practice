@@ -34,7 +34,7 @@ class Book:
         elif key == 'num_pages':
             return self.num_pages
         else:
-            
+
             return f"Key {key} not found"
 
 
